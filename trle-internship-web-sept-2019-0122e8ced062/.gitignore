@@ -6,7 +6,6 @@
 /tmp/*
 /vendor/*
 /webroot/files/
-/config/Migrations/schema-dump-default.lock
 # OS generated files #
 ######################
 .DS_Store
